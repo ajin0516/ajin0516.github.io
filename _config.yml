@@ -1,6 +1,6 @@
 # Setup
 title: A Jin
-description: 
+description:
 url: https://ajin0516.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Ajin Lee
+  url: https://github.com/ajin0516/
+  email: dkwls7432@naver.com
